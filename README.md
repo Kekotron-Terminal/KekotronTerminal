@@ -4,7 +4,8 @@
 
   To download simply use `git clone`, or download as zip directly from the webpage.
 
-  ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/c79b23c7-6965-4428-aaac-d1fe253ff668)
+  ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/9aac3647-0b30-4847-a395-8b99562542df)
+
 
 
 ### 1. Open Kekotron
@@ -71,4 +72,6 @@ Some users may prefer to run Kekotron inside a virtual environnemnt.
 * MacOS
   
   Use UTM to quickly spin up a high performance MacOS virtual machine. https://github.com/utmapp/UTM
+
+---
 
