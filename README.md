@@ -4,6 +4,9 @@
 
   To download simply use `git clone`, or download as zip directly from the webpage.
 
+  ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/c79b23c7-6965-4428-aaac-d1fe253ff668)
+
+
 ### 1. Open Kekotron
   Simply navigate to the appropriate OS directory, **right click `kekotron` and open.**
   
