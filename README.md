@@ -2,7 +2,7 @@
 
 ## Initial setup
 
-  To download simply use git clone, or download as zip directly from the webpage.
+  To download simply use `git clone`, or download as zip directly from the webpage.
 
 ### 1. Open Kekotron
   Simply navigate to the appropriate OS directory, **right click `kekotron` and open.**
