@@ -12,6 +12,7 @@
   Simply navigate to the appropriate OS directory, **right click `kekotron` and open.**
 
   *MacOS users might need to change their display settings for Kekotron to fit into the screen. Go to Settings > Display > click 'More Space'
+
   ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/8aa87e9e-70a2-4ebd-8352-f1698485fd8f)
 
   
