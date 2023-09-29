@@ -34,7 +34,7 @@
    * Enter a single private key into the `priv key input` entry.
 
 ### 3. Network
-    A few public nodes are available to you by default when you first start Kekotron. They were selected for their robust privacy policy. You can try other nodes from this page if you desire. Note that **these nodes will only work in Call-saver mode.**
+A few public nodes are available to you by default when you first start Kekotron. They were selected for their robust privacy policy. You can try other nodes from this page if you desire. Note that **these nodes will only work in Call-saver mode.**
    
    In order to unlock the full power of Kekotron, you need to have a high quality PRC node to connect to. Public nodes such as infura and others listed above will **NOT** cut it.
    
