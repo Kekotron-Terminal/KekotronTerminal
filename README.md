@@ -40,7 +40,7 @@ A few public nodes are available to you by default when you first start Kekotron
    
    **Options**:
    * Local private node
-      Running a Geth node on your machine(or local network) is the best way to get the outmost performace out of Kekotron. A simple sync in `snap` mode will be sufficient.
+      Running a Geth+lighthouse node using [NiceNode](https://www.nicenode.xyz/) on your machine(or local network) is the best way to get the outmost performace out of Kekotron. A simple sync in `snap` mode will be sufficient.
 
    * Remote private node
       A private node running remotely on a VPS and connected through SSH can also give you extremely high performance. Low cost options include [Contabo](https://contabo.com/) and [Hetzner](https://www.hetzner.com/)
