@@ -7,6 +7,7 @@
   ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/9aac3647-0b30-4847-a395-8b99562542df)
 
 
+User Manual: https://docs.kekotron.io/setup
 
 ### 1. Open Kekotron
   Simply navigate to the appropriate OS directory, **right click `kekotron` and open.**
