@@ -46,8 +46,8 @@ A few public nodes are available to you by default when you first start Kekotron
       A private node running remotely on a VPS and connected through SSH can also give you extremely high performance. Low cost options include [Contabo](https://contabo.com/) and [Hetzner](https://www.hetzner.com/)
      You can also chose to run Kekotron remotely directly into your VPS session if GUI is enabled.
 
-   * (Easiest) Node provider
-      You can also use a node provider. Right now the only free option that is recommended is **[Chainstack](https://chainstack.com/pricing/)** free tier due to their robust burst limits. Alchemy, Quicknode, BlastAPI free tiers will NOT cut it.
+   * Node provider
+      You can also use a node provider. [Chainstack](https://chainstack.com/pricing/) growth plan will give you everything you need.
      
 Once you have a node ready, enter both the http and ws endpoints into the network section and turn off Call-saver mode in the settings.
 
