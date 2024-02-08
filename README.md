@@ -12,11 +12,11 @@ User Manual: https://docs.kekotron.io/setup
 ### 1. Open Kekotron
   Navigate to the appropriate OS directory, **right click `kekotron` and open.**
 
-  Note: MacOS users may need to change their display settings for Kekotron to fit into the screen. Go to Settings > Display > click 'More Space'
+  Note: MacBook users may need to change their display settings for Kekotron to fit into the screen. Go to Settings > Display > click 'More Space'
 
   ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/8aa87e9e-70a2-4ebd-8352-f1698485fd8f)
 
-  Note: Linux users may need to run terminal command `./Kekotron` from the Kekotron_Linux directory if opening from GUI doesn't work 
+  Note: Linux users may need to run terminal command `./Kekotron` from the Kekotron_Linux directory if opening from file manager doesn't work .
   
 ### 2. Load wallets (optional in V2)
 
