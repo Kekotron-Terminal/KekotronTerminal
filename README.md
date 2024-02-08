@@ -16,7 +16,7 @@ User Manual: https://docs.kekotron.io/setup
 
   ![Untitled](https://github.com/Kekotron-Terminal/KekotronTerminal/assets/143968378/8aa87e9e-70a2-4ebd-8352-f1698485fd8f)
 
-  Note: **Linux users may need to run terminal command `chmod +x Kekotron` from the Kekotron_Linux directory** before being able to run the executable.
+  Note: **Linux users may need to run terminal command `sudo chown -R YOUR_USER_NAME:YOUR_USER_NAME` from the Kekotron_Linux directory followed by `chmod +x Kekotron`** before being able to run the executable.
   
 ### 2. Load wallets (optional in V2)
 
