@@ -10,7 +10,7 @@
 User Manual: https://docs.kekotron.io/setup
 
 ### 1. Open Kekotron
-  Simply navigate to the appropriate OS directory, **right click `kekotron` and open.**
+  Navigate to the appropriate OS directory, **right click `kekotron` and open.**
 
   Note: MacOS users may need to change their display settings for Kekotron to fit into the screen. Go to Settings > Display > click 'More Space'
 
