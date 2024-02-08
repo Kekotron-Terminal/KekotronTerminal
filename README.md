@@ -18,7 +18,7 @@ User Manual: https://docs.kekotron.io/setup
 
   Note: Linux users may need to run terminal command `./Kekotron` from the Kekotron_Linux directory if opening from GUI doesn't work 
   
-### 2. Load wallets
+### 2. Load wallets (optional in V2)
 
    **3 options**:
    * (Recommended) Use the wallet generator tool
@@ -35,7 +35,7 @@ User Manual: https://docs.kekotron.io/setup
      ```
    * Enter a single private key into the `priv key input` entry.
 
-### 3. Network
+### 3. Network (optional in V2)
 A few public nodes are available to you by default when you first start Kekotron. They were selected for their robust privacy policy. You can try other nodes from this page if you desire. Note that **these nodes will only work in Call-saver mode.**
    
    In order to unlock the full power of Kekotron, you need to have a high quality PRC node to connect to. Public nodes such as infura and others listed above will **NOT** cut it.
@@ -58,7 +58,7 @@ Kekotron is set to run in Call-saver mode when you first run the application, th
 Poll rate can be reduced to your liking. Minimum value: 0.05s
 
 ### 4. Block explorer API keys
-  It is recommended that you obtain a free API key from Etherscan and Arbiscan in order to allow Kekotron to fetch contract ABIs.
+  It is recommended that you obtain a free API key from Etherscan, Arbiscan, etc. in order to allow Kekotron to fetch contract ABIs without rate limit.
   1. [Sign up on Etherscan](https://etherscan.io/register)
   2. Copy [your API key](https://etherscan.io/myapikey)
   3. Paste it into Kekotron settings menu, save.
